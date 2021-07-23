@@ -1,7 +1,5 @@
 # Scientory-by-PHJ-STUDIO-IOS
 
-[![iOS starter workflow](https://github.com/PHJ-STUDIO/Scientory-by-PHJ-STUDIO/actions/workflows/ios.yml/badge.svg?branch=ios)](https://github.com/PHJ-STUDIO/Scientory-by-PHJ-STUDIO/actions/workflows/ios.yml)
-
 사이언토리 앱은 권장도서를 추천해주고 우리가 읽은 책들에서의 키워드 문장들을 뽑아 보여주는 앱입니다.
 
 ![Simulator Screen Shot - iPhone 11 Pro Max - 2020-09-02 at 20 38 49](https://user-images.githubusercontent.com/65493966/91976984-e1d79e80-ed5c-11ea-80d0-fcbce9bd8d4c.png)

@@ -1,8 +1,5 @@
 # Scientory-by-PHJ-STUDIO
 
-
-[![Android CI](https://github.com/PHJ-STUDIO/Scientory-by-PHJ-STUDIO/workflows/Android%20CI/badge.svg?branch=master)](https://github.com/PHJ-STUDIO/Scientory-by-PHJ-STUDIO/actions)
-
 사이언토리 앱은 권장도서를 추천해주고 우리가 읽은 책들에서의 키워드 문장들을 뽑아 보여주는 앱입니다.
 
 ![Screenshot_1599040463](https://user-images.githubusercontent.com/65493966/91972639-f19fb480-ed55-11ea-9518-2ae3a9b41fa3.png)
