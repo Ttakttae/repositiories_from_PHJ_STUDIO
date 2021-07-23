@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.scientorybyphjstudio">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="사이언토리"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".mainactivity.funnyphysicstravel"
+            android:label="재미있는 물리 여행"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".mainactivity.Theory"
+            android:label="Theory"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".mainactivity.Story"
+            android:label="Story"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".mainactivity.Bookstore"
+            android:label="서점 연간도서 순위"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".mainactivity.Univercity"
+            android:label="대학교 권장도서 목록"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".mainactivity.Book"
+            android:label="Book"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".mainactivity.MainActivity"
+            android:label="사이언토리(Science+Story)"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".seoulunivercity.seoulunivercity2016"
+            android:label="서울대학교 2016년 권장도서 목록"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".seoulunivercity.seoulunivercity2017"
+            android:label="서울대학교 2017년 권장도서 목록"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".seoulunivercity.seoulunivercity2018"
+            android:label="서울대학교 2018년 권장도서 목록"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".seoulunivercity.seoulunivercity2019"
+            android:label="서울대학교 2019년 권장도서 목록"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".seoulunivercity.seoulunivercity2020"
+            android:label="서울대학교 2020년 권장도서 목록"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".aladin.aladin2016"
+            android:label="알라딘 2016년 연간도서 순위"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".aladin.aladin2017"
+            android:label="알라딘 2017년 연간도서 순위"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".aladin.aladin2018"
+            android:label="알라딘 2018년 연간도서 순위"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".aladin.aladin2019"
+            android:label="알라딘 2019년 연간도서 순위"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".aladin.aladin2020"
+            android:label="알라딘 2020년 연간도서 순위"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".interpark.interpark2016"
+            android:label="인터파크 2016년 연간도서 순위"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".interpark.interpark2017"
+            android:label="인터파크 2017년 연간도서 순위"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".interpark.interpark2018"
+            android:label="인터파크 2018년 연간도서 순위"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".interpark.interpark2019"
+            android:label="인터파크 2019년 연간도서 순위"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".interpark.interpark2020"
+            android:label="인터파크 2020년 연간도서 순위"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".kofac.kofac2016"
+            android:label="한국과학창의재단 2016년 권장도서 목록"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".kofac.kofac2017"
+            android:label="한국과학창의재단 2017년 권장도서 목록"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".kofac.kofac2018"
+            android:label="한국과학창의재단 2018년 권장도서 목록"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".kofac.kofac2019"
+            android:label="한국과학창의재단 2019년 권장도서 목록"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".kofac.kofac2020"
+            android:label="한국과학창의재단 2020년 권장도서 목록"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".koreaunivercity.koreaunivercity2016"
+            android:label="고려대학교 2016년 권장도서 목록"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".koreaunivercity.koreaunivercity2017"
+            android:label="고려대학교 2017년 권장도서 목록"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".koreaunivercity.koreaunivercity2018"
+            android:label="고려대학교 2018년 권장도서 목록"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".koreaunivercity.koreaunivercity2019"
+            android:label="고려대학교 2019년 권장도서 목록"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".koreaunivercity.koreaunivercity2020"
+            android:label="고려대학교 2020년 권장도서 목록"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".kyobo.kyobo2016"
+            android:label="교보문고 2016년 연간도서 순위"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".kyobo.kyobo2017"
+            android:label="교보문고 2017년 연간도서 순위"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".kyobo.kyobo2018"
+            android:label="교보문고 2018년 연간도서 순위"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".kyobo.kyobo2019"
+            android:label="교보문고 2019년 연간도서 순위"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".kyobo.kyobo2020"
+            android:label="교보문고 2020년 연간도서 순위"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".sungkyunkwanunivercity.sungkyunkwanunivercity2016"
+            android:label="성균관대학교 2016년 권장도서 목록"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".sungkyunkwanunivercity.sungkyunkwanunivercity2017"
+            android:label="성균관대학교 2017년 권장도서 목록"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".sungkyunkwanunivercity.sungkyunkwanunivercity2018"
+            android:label="성균관대학교 2018년 권장도서 목록"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".sungkyunkwanunivercity.sungkyunkwanunivercity2019"
+            android:label="성균관대학교 2019년 권장도서 목록"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".sungkyunkwanunivercity.sungkyunkwanunivercity2020"
+            android:label="성균관대학교 2020년 권장도서 목록"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".yeongpung.yeongpung2016"
+            android:label="영풍문고 2016년 연간도서 순위"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".yeongpung.yeongpung2017"
+            android:label="영풍문고 2017년 연간도서 순위"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".yeongpung.yeongpung2018"
+            android:label="영풍문고 2018년 연간도서 순위"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".yeongpung.yeongpung2019"
+            android:label="영풍문고 2019년 연간도서 순위"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".yeongpung.yeongpung2020"
+            android:label="영풍문고 2020년 연간도서 순위"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".yeonsaeunivercity.yeonsaeunivercity2016"
+            android:label="연세대학교 2016년 권장도서 목록"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".yeonsaeunivercity.yeonsaeunivercity2017"
+            android:label="연세대학교 2017년 권장도서 목록"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".yeonsaeunivercity.yeonsaeunivercity2018"
+            android:label="연세대학교 2018년 권장도서 목록"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".yeonsaeunivercity.yeonsaeunivercity2019"
+            android:label="연세대학교 2019년 권장도서 목록"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".yeonsaeunivercity.yeonsaeunivercity2020"
+            android:label="연세대학교 2020년 권장도서 목록"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".yes24.yes24_2016"
+            android:label="yes24 2016년 연간도서 순위"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".yes24.yes24_2017"
+            android:label="yes24 2017년 연간도서 순위"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".yes24.yes24_2018"
+            android:label="yes24 2018년 연간도서 순위"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".yes24.yes24_2019"
+            android:label="yes24 2019년 연간도서 순위"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".yes24.yes24_2020"
+            android:label="yes24 2020년 연간도서 순위"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".mainactivity.kofac"
+            android:label="한국과학창의재단 권장도서 목록"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".mainactivity.interpark"
+            android:label="인터파크 연간도서 순위"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".mainactivity.aladin"
+            android:label="알라딘 연간도서 순위"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".mainactivity.yeongpung"
+            android:label="영풍문고 연간도서 순위"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".mainactivity.kyobo"
+            android:label="교보문고 연간도서 순위"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".mainactivity.yes24"
+            android:label="yes24 연간도서 순위"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".mainactivity.sungkyunkwanunivercity"
+            android:label="성균관대학교 권장도서 목록"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".mainactivity.koreaunivercity"
+            android:label="고려대학교 권장도서 목록"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".mainactivity.yeonsaeunivercity"
+            android:label="연세대학교 권장도서 목록"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".mainactivity.seoulunivercity"
+            android:label="서울대학교 권장도서 목록"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".feynmsn.feynmanchapterkeyword"
+            android:label="파인만의 6가지 물리이야기 키워드"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".feynmsn.feynmanchapter6"
+            android:label="파인만의 6가지 물리이야기 6장"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".feynmsn.feynmanchapter5"
+            android:label="파인만의 6가지 물리이야기 5장"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".feynmsn.feynmanchapter4"
+            android:label="파인만의 6가지 물리이야기 4장"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".feynmsn.feynmanchapter3"
+            android:label="파인만의 6가지 물리이야기 3장"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".feynmsn.feynmanchapter2"
+            android:label="파인만의 6가지 물리이야기 2장"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".feynmsn.feynmanchapter1"
+            android:label="파인만의 6가지 물리이야기 1장"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".mainactivity.TooFunScienceBook"
+            android:label="너무 재밌어서 잠못드는 과학책"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".mainactivity.Flatland"
+            android:label="플랫랜드"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".mainactivity.RichardFeynman"
+            android:label="파인만의 6가지 물리이야기"
+            android:theme="@style/책목록" />
+        <activity
+            android:name=".mainactivity.Splash"
+            android:theme="@style/AppTheme">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,729 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		2C0708F8250BBCFF008FA949 /* applogo-0000.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C0708F7250BBCFF008FA949 /* applogo-0000.jpg */; };
+		2C70ABAB24F164BF00FDF1CF /* sungkyunkwanunivercity.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C70AB9E24F164BD00FDF1CF /* sungkyunkwanunivercity.jpg */; };
+		2C70ABAC24F164BF00FDF1CF /* koreaunivercity.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C70AB9F24F164BD00FDF1CF /* koreaunivercity.jpg */; };
+		2C70ABAD24F164BF00FDF1CF /* splash.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C70ABA024F164BE00FDF1CF /* splash.png */; };
+		2C70ABAE24F164BF00FDF1CF /* toofunsciencebook.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C70ABA124F164BE00FDF1CF /* toofunsciencebook.jpg */; };
+		2C70ABAF24F164BF00FDF1CF /* yes24.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C70ABA224F164BE00FDF1CF /* yes24.png */; };
+		2C70ABB024F164BF00FDF1CF /* yeonsaeunivercity.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C70ABA324F164BE00FDF1CF /* yeonsaeunivercity.jpg */; };
+		2C70ABB124F164BF00FDF1CF /* interpark.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C70ABA424F164BE00FDF1CF /* interpark.jpg */; };
+		2C70ABB224F164BF00FDF1CF /* kyobo.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C70ABA524F164BE00FDF1CF /* kyobo.png */; };
+		2C70ABB324F164BF00FDF1CF /* kofac.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C70ABA624F164BE00FDF1CF /* kofac.jpg */; };
+		2C70ABB424F164BF00FDF1CF /* seoulunivercity.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C70ABA724F164BE00FDF1CF /* seoulunivercity.png */; };
+		2C70ABB524F164BF00FDF1CF /* richardfeynman.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C70ABA824F164BE00FDF1CF /* richardfeynman.jpg */; };
+		2C70ABB624F164BF00FDF1CF /* funphysicstravel.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 2C70ABA924F164BE00FDF1CF /* funphysicstravel.jpeg */; };
+		2C70ABB724F164BF00FDF1CF /* yeongpung.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C70ABAA24F164BF00FDF1CF /* yeongpung.jpg */; };
+		2C70ABB924F164CC00FDF1CF /* aladin.png in Resources */ = {isa = PBXBuildFile; fileRef = 2C70ABB824F164CC00FDF1CF /* aladin.png */; };
+		2C70ABBC24F164D200FDF1CF /* flatland.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C70ABBA24F164D200FDF1CF /* flatland.jpg */; };
+		2C70ABBD24F164D200FDF1CF /* applogo.gif in Resources */ = {isa = PBXBuildFile; fileRef = 2C70ABBB24F164D200FDF1CF /* applogo.gif */; };
+		2C7FB18724F8E07E002A10F2 /* applogo-0009.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C7FB17A24F8E07D002A10F2 /* applogo-0009.jpg */; };
+		2C7FB18824F8E07E002A10F2 /* applogo-0005.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C7FB17B24F8E07D002A10F2 /* applogo-0005.jpg */; };
+		2C7FB18924F8E07E002A10F2 /* applogo-0003.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C7FB17C24F8E07D002A10F2 /* applogo-0003.jpg */; };
+		2C7FB18B24F8E07E002A10F2 /* applogo-0011.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C7FB17E24F8E07D002A10F2 /* applogo-0011.jpg */; };
+		2C7FB18C24F8E07E002A10F2 /* applogo-0007.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C7FB17F24F8E07D002A10F2 /* applogo-0007.jpg */; };
+		2C7FB18D24F8E07E002A10F2 /* applogo-0010.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C7FB18024F8E07D002A10F2 /* applogo-0010.jpg */; };
+		2C7FB18E24F8E07E002A10F2 /* applogo-0001.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C7FB18124F8E07D002A10F2 /* applogo-0001.jpg */; };
+		2C7FB18F24F8E07E002A10F2 /* applogo-0004.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C7FB18224F8E07D002A10F2 /* applogo-0004.jpg */; };
+		2C7FB19024F8E07E002A10F2 /* applogo-0006.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C7FB18324F8E07D002A10F2 /* applogo-0006.jpg */; };
+		2C7FB19124F8E07E002A10F2 /* applogo-0008.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C7FB18424F8E07E002A10F2 /* applogo-0008.jpg */; };
+		2C7FB19224F8E07E002A10F2 /* applogo-0012.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C7FB18524F8E07E002A10F2 /* applogo-0012.jpg */; };
+		2C7FB19324F8E07E002A10F2 /* applogo-0002.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2C7FB18624F8E07E002A10F2 /* applogo-0002.jpg */; };
+		2CE1313224EC1C30008A9FB9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CE1313124EC1C30008A9FB9 /* AppDelegate.swift */; };
+		2CE1313424EC1C30008A9FB9 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CE1313324EC1C30008A9FB9 /* SceneDelegate.swift */; };
+		2CE1313624EC1C30008A9FB9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CE1313524EC1C30008A9FB9 /* ViewController.swift */; };
+		2CE1313924EC1C30008A9FB9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2CE1313724EC1C30008A9FB9 /* Main.storyboard */; };
+		2CE1313B24EC1C31008A9FB9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2CE1313A24EC1C31008A9FB9 /* Assets.xcassets */; };
+		2CE1313E24EC1C31008A9FB9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2CE1313C24EC1C31008A9FB9 /* LaunchScreen.storyboard */; };
+		2CE1314924EC1C31008A9FB9 /* Scientory_by_PHJ_STUDIO_IOSTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CE1314824EC1C31008A9FB9 /* Scientory_by_PHJ_STUDIO_IOSTests.swift */; };
+		2CE1315424EC1C31008A9FB9 /* Scientory_by_PHJ_STUDIO_IOSUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CE1315324EC1C31008A9FB9 /* Scientory_by_PHJ_STUDIO_IOSUITests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		2CE1314524EC1C31008A9FB9 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 2CE1312624EC1C30008A9FB9 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 2CE1312D24EC1C30008A9FB9;
+			remoteInfo = "Scientory-by-PHJ-STUDIO-IOS";
+		};
+		2CE1315024EC1C31008A9FB9 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 2CE1312624EC1C30008A9FB9 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 2CE1312D24EC1C30008A9FB9;
+			remoteInfo = "Scientory-by-PHJ-STUDIO-IOS";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		2C0708F7250BBCFF008FA949 /* applogo-0000.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "applogo-0000.jpg"; sourceTree = "<group>"; };
+		2C70AB9E24F164BD00FDF1CF /* sungkyunkwanunivercity.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = sungkyunkwanunivercity.jpg; sourceTree = "<group>"; };
+		2C70AB9F24F164BD00FDF1CF /* koreaunivercity.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = koreaunivercity.jpg; sourceTree = "<group>"; };
+		2C70ABA024F164BE00FDF1CF /* splash.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = splash.png; sourceTree = "<group>"; };
+		2C70ABA124F164BE00FDF1CF /* toofunsciencebook.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = toofunsciencebook.jpg; sourceTree = "<group>"; };
+		2C70ABA224F164BE00FDF1CF /* yes24.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = yes24.png; sourceTree = "<group>"; };
+		2C70ABA324F164BE00FDF1CF /* yeonsaeunivercity.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = yeonsaeunivercity.jpg; sourceTree = "<group>"; };
+		2C70ABA424F164BE00FDF1CF /* interpark.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = interpark.jpg; sourceTree = "<group>"; };
+		2C70ABA524F164BE00FDF1CF /* kyobo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = kyobo.png; sourceTree = "<group>"; };
+		2C70ABA624F164BE00FDF1CF /* kofac.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = kofac.jpg; sourceTree = "<group>"; };
+		2C70ABA724F164BE00FDF1CF /* seoulunivercity.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = seoulunivercity.png; sourceTree = "<group>"; };
+		2C70ABA824F164BE00FDF1CF /* richardfeynman.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = richardfeynman.jpg; sourceTree = "<group>"; };
+		2C70ABA924F164BE00FDF1CF /* funphysicstravel.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = funphysicstravel.jpeg; sourceTree = "<group>"; };
+		2C70ABAA24F164BF00FDF1CF /* yeongpung.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = yeongpung.jpg; sourceTree = "<group>"; };
+		2C70ABB824F164CC00FDF1CF /* aladin.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = aladin.png; sourceTree = "<group>"; };
+		2C70ABBA24F164D200FDF1CF /* flatland.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = flatland.jpg; sourceTree = "<group>"; };
+		2C70ABBB24F164D200FDF1CF /* applogo.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = applogo.gif; sourceTree = "<group>"; };
+		2C7FB17A24F8E07D002A10F2 /* applogo-0009.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "applogo-0009.jpg"; sourceTree = "<group>"; };
+		2C7FB17B24F8E07D002A10F2 /* applogo-0005.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "applogo-0005.jpg"; sourceTree = "<group>"; };
+		2C7FB17C24F8E07D002A10F2 /* applogo-0003.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "applogo-0003.jpg"; sourceTree = "<group>"; };
+		2C7FB17E24F8E07D002A10F2 /* applogo-0011.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "applogo-0011.jpg"; sourceTree = "<group>"; };
+		2C7FB17F24F8E07D002A10F2 /* applogo-0007.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "applogo-0007.jpg"; sourceTree = "<group>"; };
+		2C7FB18024F8E07D002A10F2 /* applogo-0010.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "applogo-0010.jpg"; sourceTree = "<group>"; };
+		2C7FB18124F8E07D002A10F2 /* applogo-0001.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "applogo-0001.jpg"; sourceTree = "<group>"; };
+		2C7FB18224F8E07D002A10F2 /* applogo-0004.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "applogo-0004.jpg"; sourceTree = "<group>"; };
+		2C7FB18324F8E07D002A10F2 /* applogo-0006.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "applogo-0006.jpg"; sourceTree = "<group>"; };
+		2C7FB18424F8E07E002A10F2 /* applogo-0008.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "applogo-0008.jpg"; sourceTree = "<group>"; };
+		2C7FB18524F8E07E002A10F2 /* applogo-0012.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "applogo-0012.jpg"; sourceTree = "<group>"; };
+		2C7FB18624F8E07E002A10F2 /* applogo-0002.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "applogo-0002.jpg"; sourceTree = "<group>"; };
+		2CE1312E24EC1C30008A9FB9 /* Scientory-by-PHJ-STUDIO-IOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Scientory-by-PHJ-STUDIO-IOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2CE1313124EC1C30008A9FB9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		2CE1313324EC1C30008A9FB9 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		2CE1313524EC1C30008A9FB9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		2CE1313824EC1C30008A9FB9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		2CE1313A24EC1C31008A9FB9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		2CE1313D24EC1C31008A9FB9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		2CE1313F24EC1C31008A9FB9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2CE1314424EC1C31008A9FB9 /* Scientory-by-PHJ-STUDIO-IOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Scientory-by-PHJ-STUDIO-IOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2CE1314824EC1C31008A9FB9 /* Scientory_by_PHJ_STUDIO_IOSTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Scientory_by_PHJ_STUDIO_IOSTests.swift; sourceTree = "<group>"; };
+		2CE1314A24EC1C31008A9FB9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2CE1314F24EC1C31008A9FB9 /* Scientory-by-PHJ-STUDIO-IOSUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Scientory-by-PHJ-STUDIO-IOSUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2CE1315324EC1C31008A9FB9 /* Scientory_by_PHJ_STUDIO_IOSUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Scientory_by_PHJ_STUDIO_IOSUITests.swift; sourceTree = "<group>"; };
+		2CE1315524EC1C31008A9FB9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		2CE1312B24EC1C30008A9FB9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2CE1314124EC1C31008A9FB9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2CE1314C24EC1C31008A9FB9 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		2C7FB17824F8E031002A10F2 /* images */ = {
+			isa = PBXGroup;
+			children = (
+				2C70ABA924F164BE00FDF1CF /* funphysicstravel.jpeg */,
+				2C70ABA424F164BE00FDF1CF /* interpark.jpg */,
+				2C70ABA624F164BE00FDF1CF /* kofac.jpg */,
+				2C70AB9F24F164BD00FDF1CF /* koreaunivercity.jpg */,
+				2C70ABA524F164BE00FDF1CF /* kyobo.png */,
+				2C70ABBB24F164D200FDF1CF /* applogo.gif */,
+				2C70ABBA24F164D200FDF1CF /* flatland.jpg */,
+				2C70ABA824F164BE00FDF1CF /* richardfeynman.jpg */,
+				2C70ABB824F164CC00FDF1CF /* aladin.png */,
+				2C70ABA724F164BE00FDF1CF /* seoulunivercity.png */,
+				2C70ABA024F164BE00FDF1CF /* splash.png */,
+				2C70AB9E24F164BD00FDF1CF /* sungkyunkwanunivercity.jpg */,
+				2C70ABA124F164BE00FDF1CF /* toofunsciencebook.jpg */,
+				2C70ABAA24F164BF00FDF1CF /* yeongpung.jpg */,
+				2C70ABA324F164BE00FDF1CF /* yeonsaeunivercity.jpg */,
+				2C70ABA224F164BE00FDF1CF /* yes24.png */,
+			);
+			path = images;
+			sourceTree = "<group>";
+		};
+		2C7FB17924F8E068002A10F2 /* gif사진 */ = {
+			isa = PBXGroup;
+			children = (
+				2C0708F7250BBCFF008FA949 /* applogo-0000.jpg */,
+				2C7FB18124F8E07D002A10F2 /* applogo-0001.jpg */,
+				2C7FB18624F8E07E002A10F2 /* applogo-0002.jpg */,
+				2C7FB17C24F8E07D002A10F2 /* applogo-0003.jpg */,
+				2C7FB18224F8E07D002A10F2 /* applogo-0004.jpg */,
+				2C7FB17B24F8E07D002A10F2 /* applogo-0005.jpg */,
+				2C7FB18324F8E07D002A10F2 /* applogo-0006.jpg */,
+				2C7FB17F24F8E07D002A10F2 /* applogo-0007.jpg */,
+				2C7FB18424F8E07E002A10F2 /* applogo-0008.jpg */,
+				2C7FB17A24F8E07D002A10F2 /* applogo-0009.jpg */,
+				2C7FB18024F8E07D002A10F2 /* applogo-0010.jpg */,
+				2C7FB17E24F8E07D002A10F2 /* applogo-0011.jpg */,
+				2C7FB18524F8E07E002A10F2 /* applogo-0012.jpg */,
+			);
+			name = "gif사진";
+			path = "gif사진";
+			sourceTree = "<group>";
+		};
+		2CE1312524EC1C30008A9FB9 = {
+			isa = PBXGroup;
+			children = (
+				2CE1313024EC1C30008A9FB9 /* Scientory-by-PHJ-STUDIO-IOS */,
+				2CE1314724EC1C31008A9FB9 /* Scientory-by-PHJ-STUDIO-IOSTests */,
+				2CE1315224EC1C31008A9FB9 /* Scientory-by-PHJ-STUDIO-IOSUITests */,
+				2CE1312F24EC1C30008A9FB9 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		2CE1312F24EC1C30008A9FB9 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				2CE1312E24EC1C30008A9FB9 /* Scientory-by-PHJ-STUDIO-IOS.app */,
+				2CE1314424EC1C31008A9FB9 /* Scientory-by-PHJ-STUDIO-IOSTests.xctest */,
+				2CE1314F24EC1C31008A9FB9 /* Scientory-by-PHJ-STUDIO-IOSUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		2CE1313024EC1C30008A9FB9 /* Scientory-by-PHJ-STUDIO-IOS */ = {
+			isa = PBXGroup;
+			children = (
+				2C7FB17924F8E068002A10F2 /* gif사진 */,
+				2C7FB17824F8E031002A10F2 /* images */,
+				2CE1313124EC1C30008A9FB9 /* AppDelegate.swift */,
+				2CE1313324EC1C30008A9FB9 /* SceneDelegate.swift */,
+				2CE1313524EC1C30008A9FB9 /* ViewController.swift */,
+				2CE1313724EC1C30008A9FB9 /* Main.storyboard */,
+				2CE1313A24EC1C31008A9FB9 /* Assets.xcassets */,
+				2CE1313C24EC1C31008A9FB9 /* LaunchScreen.storyboard */,
+				2CE1313F24EC1C31008A9FB9 /* Info.plist */,
+			);
+			path = "Scientory-by-PHJ-STUDIO-IOS";
+			sourceTree = "<group>";
+		};
+		2CE1314724EC1C31008A9FB9 /* Scientory-by-PHJ-STUDIO-IOSTests */ = {
+			isa = PBXGroup;
+			children = (
+				2CE1314824EC1C31008A9FB9 /* Scientory_by_PHJ_STUDIO_IOSTests.swift */,
+				2CE1314A24EC1C31008A9FB9 /* Info.plist */,
+			);
+			path = "Scientory-by-PHJ-STUDIO-IOSTests";
+			sourceTree = "<group>";
+		};
+		2CE1315224EC1C31008A9FB9 /* Scientory-by-PHJ-STUDIO-IOSUITests */ = {
+			isa = PBXGroup;
+			children = (
+				2CE1315324EC1C31008A9FB9 /* Scientory_by_PHJ_STUDIO_IOSUITests.swift */,
+				2CE1315524EC1C31008A9FB9 /* Info.plist */,
+			);
+			path = "Scientory-by-PHJ-STUDIO-IOSUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		2CE1312D24EC1C30008A9FB9 /* Scientory-by-PHJ-STUDIO-IOS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2CE1315824EC1C31008A9FB9 /* Build configuration list for PBXNativeTarget "Scientory-by-PHJ-STUDIO-IOS" */;
+			buildPhases = (
+				2CE1312A24EC1C30008A9FB9 /* Sources */,
+				2CE1312B24EC1C30008A9FB9 /* Frameworks */,
+				2CE1312C24EC1C30008A9FB9 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "Scientory-by-PHJ-STUDIO-IOS";
+			productName = "Scientory-by-PHJ-STUDIO-IOS";
+			productReference = 2CE1312E24EC1C30008A9FB9 /* Scientory-by-PHJ-STUDIO-IOS.app */;
+			productType = "com.apple.product-type.application";
+		};
+		2CE1314324EC1C31008A9FB9 /* Scientory-by-PHJ-STUDIO-IOSTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2CE1315B24EC1C31008A9FB9 /* Build configuration list for PBXNativeTarget "Scientory-by-PHJ-STUDIO-IOSTests" */;
+			buildPhases = (
+				2CE1314024EC1C31008A9FB9 /* Sources */,
+				2CE1314124EC1C31008A9FB9 /* Frameworks */,
+				2CE1314224EC1C31008A9FB9 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				2CE1314624EC1C31008A9FB9 /* PBXTargetDependency */,
+			);
+			name = "Scientory-by-PHJ-STUDIO-IOSTests";
+			productName = "Scientory-by-PHJ-STUDIO-IOSTests";
+			productReference = 2CE1314424EC1C31008A9FB9 /* Scientory-by-PHJ-STUDIO-IOSTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		2CE1314E24EC1C31008A9FB9 /* Scientory-by-PHJ-STUDIO-IOSUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 2CE1315E24EC1C31008A9FB9 /* Build configuration list for PBXNativeTarget "Scientory-by-PHJ-STUDIO-IOSUITests" */;
+			buildPhases = (
+				2CE1314B24EC1C31008A9FB9 /* Sources */,
+				2CE1314C24EC1C31008A9FB9 /* Frameworks */,
+				2CE1314D24EC1C31008A9FB9 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				2CE1315124EC1C31008A9FB9 /* PBXTargetDependency */,
+			);
+			name = "Scientory-by-PHJ-STUDIO-IOSUITests";
+			productName = "Scientory-by-PHJ-STUDIO-IOSUITests";
+			productReference = 2CE1314F24EC1C31008A9FB9 /* Scientory-by-PHJ-STUDIO-IOSUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		2CE1312624EC1C30008A9FB9 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1200;
+				LastUpgradeCheck = 1200;
+				TargetAttributes = {
+					2CE1312D24EC1C30008A9FB9 = {
+						CreatedOnToolsVersion = 12.0;
+					};
+					2CE1314324EC1C31008A9FB9 = {
+						CreatedOnToolsVersion = 12.0;
+						TestTargetID = 2CE1312D24EC1C30008A9FB9;
+					};
+					2CE1314E24EC1C31008A9FB9 = {
+						CreatedOnToolsVersion = 12.0;
+						TestTargetID = 2CE1312D24EC1C30008A9FB9;
+					};
+				};
+			};
+			buildConfigurationList = 2CE1312924EC1C30008A9FB9 /* Build configuration list for PBXProject "Scientory-by-PHJ-STUDIO-IOS" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 2CE1312524EC1C30008A9FB9;
+			productRefGroup = 2CE1312F24EC1C30008A9FB9 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				2CE1312D24EC1C30008A9FB9 /* Scientory-by-PHJ-STUDIO-IOS */,
+				2CE1314324EC1C31008A9FB9 /* Scientory-by-PHJ-STUDIO-IOSTests */,
+				2CE1314E24EC1C31008A9FB9 /* Scientory-by-PHJ-STUDIO-IOSUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		2CE1312C24EC1C30008A9FB9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2C7FB19324F8E07E002A10F2 /* applogo-0002.jpg in Resources */,
+				2C70ABB124F164BF00FDF1CF /* interpark.jpg in Resources */,
+				2C70ABBC24F164D200FDF1CF /* flatland.jpg in Resources */,
+				2C7FB18824F8E07E002A10F2 /* applogo-0005.jpg in Resources */,
+				2C7FB19224F8E07E002A10F2 /* applogo-0012.jpg in Resources */,
+				2C70ABB424F164BF00FDF1CF /* seoulunivercity.png in Resources */,
+				2C70ABBD24F164D200FDF1CF /* applogo.gif in Resources */,
+				2C70ABB224F164BF00FDF1CF /* kyobo.png in Resources */,
+				2C70ABB024F164BF00FDF1CF /* yeonsaeunivercity.jpg in Resources */,
+				2C7FB18B24F8E07E002A10F2 /* applogo-0011.jpg in Resources */,
+				2C70ABAB24F164BF00FDF1CF /* sungkyunkwanunivercity.jpg in Resources */,
+				2C70ABB324F164BF00FDF1CF /* kofac.jpg in Resources */,
+				2C7FB18924F8E07E002A10F2 /* applogo-0003.jpg in Resources */,
+				2CE1313E24EC1C31008A9FB9 /* LaunchScreen.storyboard in Resources */,
+				2CE1313B24EC1C31008A9FB9 /* Assets.xcassets in Resources */,
+				2C7FB18E24F8E07E002A10F2 /* applogo-0001.jpg in Resources */,
+				2C70ABB724F164BF00FDF1CF /* yeongpung.jpg in Resources */,
+				2C70ABB624F164BF00FDF1CF /* funphysicstravel.jpeg in Resources */,
+				2C70ABAF24F164BF00FDF1CF /* yes24.png in Resources */,
+				2C70ABB924F164CC00FDF1CF /* aladin.png in Resources */,
+				2C7FB19024F8E07E002A10F2 /* applogo-0006.jpg in Resources */,
+				2C7FB19124F8E07E002A10F2 /* applogo-0008.jpg in Resources */,
+				2CE1313924EC1C30008A9FB9 /* Main.storyboard in Resources */,
+				2C7FB18724F8E07E002A10F2 /* applogo-0009.jpg in Resources */,
+				2C7FB18C24F8E07E002A10F2 /* applogo-0007.jpg in Resources */,
+				2C7FB18F24F8E07E002A10F2 /* applogo-0004.jpg in Resources */,
+				2C7FB18D24F8E07E002A10F2 /* applogo-0010.jpg in Resources */,
+				2C70ABAE24F164BF00FDF1CF /* toofunsciencebook.jpg in Resources */,
+				2C70ABAD24F164BF00FDF1CF /* splash.png in Resources */,
+				2C70ABB524F164BF00FDF1CF /* richardfeynman.jpg in Resources */,
+				2C0708F8250BBCFF008FA949 /* applogo-0000.jpg in Resources */,
+				2C70ABAC24F164BF00FDF1CF /* koreaunivercity.jpg in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2CE1314224EC1C31008A9FB9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2CE1314D24EC1C31008A9FB9 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		2CE1312A24EC1C30008A9FB9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2CE1313624EC1C30008A9FB9 /* ViewController.swift in Sources */,
+				2CE1313224EC1C30008A9FB9 /* AppDelegate.swift in Sources */,
+				2CE1313424EC1C30008A9FB9 /* SceneDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2CE1314024EC1C31008A9FB9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2CE1314924EC1C31008A9FB9 /* Scientory_by_PHJ_STUDIO_IOSTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		2CE1314B24EC1C31008A9FB9 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				2CE1315424EC1C31008A9FB9 /* Scientory_by_PHJ_STUDIO_IOSUITests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		2CE1314624EC1C31008A9FB9 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 2CE1312D24EC1C30008A9FB9 /* Scientory-by-PHJ-STUDIO-IOS */;
+			targetProxy = 2CE1314524EC1C31008A9FB9 /* PBXContainerItemProxy */;
+		};
+		2CE1315124EC1C31008A9FB9 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 2CE1312D24EC1C30008A9FB9 /* Scientory-by-PHJ-STUDIO-IOS */;
+			targetProxy = 2CE1315024EC1C31008A9FB9 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin PBXVariantGroup section */
+		2CE1313724EC1C30008A9FB9 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2CE1313824EC1C30008A9FB9 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		2CE1313C24EC1C31008A9FB9 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				2CE1313D24EC1C31008A9FB9 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		2CE1315624EC1C31008A9FB9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		2CE1315724EC1C31008A9FB9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		2CE1315924EC1C31008A9FB9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = ZM64AA9NV9;
+				INFOPLIST_FILE = "Scientory-by-PHJ-STUDIO-IOS/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "kr.co.PHJ-STUDIO.Scientory-by-PHJ-STUDIO-IOS";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		2CE1315A24EC1C31008A9FB9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				DEVELOPMENT_TEAM = ZM64AA9NV9;
+				INFOPLIST_FILE = "Scientory-by-PHJ-STUDIO-IOS/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 13.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "kr.co.PHJ-STUDIO.Scientory-by-PHJ-STUDIO-IOS";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		2CE1315C24EC1C31008A9FB9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "Scientory-by-PHJ-STUDIO-IOSTests/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "kr.co.PHJ-STUDIO.Scientory-by-PHJ-STUDIO-IOSTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Scientory-by-PHJ-STUDIO-IOS.app/Scientory-by-PHJ-STUDIO-IOS";
+			};
+			name = Debug;
+		};
+		2CE1315D24EC1C31008A9FB9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "Scientory-by-PHJ-STUDIO-IOSTests/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 14.0;
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "kr.co.PHJ-STUDIO.Scientory-by-PHJ-STUDIO-IOSTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Scientory-by-PHJ-STUDIO-IOS.app/Scientory-by-PHJ-STUDIO-IOS";
+			};
+			name = Release;
+		};
+		2CE1315F24EC1C31008A9FB9 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "Scientory-by-PHJ-STUDIO-IOSUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "kr.co.PHJ-STUDIO.Scientory-by-PHJ-STUDIO-IOSUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Scientory-by-PHJ-STUDIO-IOS";
+			};
+			name = Debug;
+		};
+		2CE1316024EC1C31008A9FB9 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "Scientory-by-PHJ-STUDIO-IOSUITests/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+					"@loader_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "kr.co.PHJ-STUDIO.Scientory-by-PHJ-STUDIO-IOSUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "Scientory-by-PHJ-STUDIO-IOS";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		2CE1312924EC1C30008A9FB9 /* Build configuration list for PBXProject "Scientory-by-PHJ-STUDIO-IOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2CE1315624EC1C31008A9FB9 /* Debug */,
+				2CE1315724EC1C31008A9FB9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2CE1315824EC1C31008A9FB9 /* Build configuration list for PBXNativeTarget "Scientory-by-PHJ-STUDIO-IOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2CE1315924EC1C31008A9FB9 /* Debug */,
+				2CE1315A24EC1C31008A9FB9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2CE1315B24EC1C31008A9FB9 /* Build configuration list for PBXNativeTarget "Scientory-by-PHJ-STUDIO-IOSTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2CE1315C24EC1C31008A9FB9 /* Debug */,
+				2CE1315D24EC1C31008A9FB9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		2CE1315E24EC1C31008A9FB9 /* Build configuration list for PBXNativeTarget "Scientory-by-PHJ-STUDIO-IOSUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				2CE1315F24EC1C31008A9FB9 /* Debug */,
+				2CE1316024EC1C31008A9FB9 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 2CE1312624EC1C30008A9FB9 /* Project object */;
+}
