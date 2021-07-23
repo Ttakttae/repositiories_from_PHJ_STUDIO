@@ -18,7 +18,7 @@ jobs:
       with:
         java-version: 1.8
     - name: Build with Gradle
-      run: cd Scientory-by-PHJ-STUDIO-branch-Android;chmod +x gradlew;sudo ./gradlew build
+      run: cd Scientory-by-PHJ-STUDIO-branch-android;chmod +x gradlew;sudo ./gradlew build
   apk:
       name: Generate APK
       runs-on: ubuntu-latest
@@ -30,9 +30,9 @@ jobs:
           with:
             java-version: 1.8
         - name: Build debug APK
-          run: cd Scientory-by-PHJ-STUDIO-branch-Android;bash ./gradlew assembleDebug --stacktrace
+          run: cd Scientory-by-PHJ-STUDIO-branch-android;bash ./gradlew assembleDebug --stacktrace
         - name: Upload APK
           uses: actions/upload-artifact@v1
           with:
             name: 사이언토리_debug
-            path: Scientory-by-PHJ-STUDIO-branch-Android/app/build/outputs/apk/debug
+            path: Scientory-by-PHJ-STUDIO-branch-android/app/build/outputs/apk/debug
